@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37593'
     url: http://www.gutenberg.org/2009/agents/37593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35316#Dragons-of-the-AirAn-Account-of-Extinct-Flying-Reptiles
 gutenberg_issued: '2011-02-18'
 gutenberg_type: Text
 identifiers:
