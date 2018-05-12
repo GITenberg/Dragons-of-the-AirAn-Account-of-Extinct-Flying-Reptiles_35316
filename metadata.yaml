@@ -1,0 +1,28 @@
+_repo: Dragons-of-the-AirAn-Account-of-Extinct-Flying-Reptiles_35316
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seeley, H. G. (Harry Govier)
+    alias: Seeley, Harry Govier
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '37593'
+    url: http://www.gutenberg.org/2009/agents/37593
+description: ''
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35316'
+  lccn: 02009301
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Pterosauria'
+title: 'Dragons of the Air: An Account of Extinct Flying Reptiles'
+url: http://www.gutenberg.org/ebooks/35316
